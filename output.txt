@@ -1,0 +1,9 @@
+[[32;1;1mINFO[0m] Connection established.
+AAPL:
+  Price		Size	  Dest		Time
+
+XOM:
+  Price		Size	  Dest		Time
+Buying Power	Total Shares	Total P&L	Timestamp
+        0.00	           0	     0.00	2020-03-17 11:02:24.312189
+[[32;1;1mINFO[0m] Disconnected.
